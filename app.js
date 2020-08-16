@@ -5,7 +5,7 @@ var response = {};
 app.set("view engine", "ejs");
 
 //AXIOS
-axios('http://newsapi.org/v2/top-headlines?country=in&apiKey=####')
+axios('http://newsapi.org/v2/top-headlines?country=in&apiKey=Write_your_API_Key')
 .then((res)=>{
 	response = res;
 })
