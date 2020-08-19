@@ -4,13 +4,16 @@
 A website where users can create, view or review blogs. <br/>
 Login required using your Google Account
 
+### News App built using API from newsapi.org.
+
 ### Create a new blog
-![](/create2.png)
+![](/news.png)
 
 ## Built With
 Node JS <br/>
 Express <br/>
-Frontend: Bootstrap, HTML <br/>
+Bootstrap <br/> 
+HTML <br/>
 Heroku (For Deployment) <br/>
 
 ## Authors
