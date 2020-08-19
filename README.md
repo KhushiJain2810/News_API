@@ -1,8 +1,7 @@
 # News_API
 ## Click [here](https://enigmatic-ravine-52537.herokuapp.com/) to view the News app.
 
-A website where users can create, view or review blogs. <br/>
-Login required using your Google Account
+A web application to get the latest news from Times Now
 
 ### News App built using API from newsapi.org.
 
