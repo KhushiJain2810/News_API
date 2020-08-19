@@ -1,4 +1,4 @@
-# News_API
+# News APP
 ## Click [here](https://enigmatic-ravine-52537.herokuapp.com/) to view the News app.
 
 A web application to get the latest news from Times Now
