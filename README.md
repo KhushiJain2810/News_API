@@ -3,7 +3,7 @@
 
 A web application to get the latest news from Times Now
 
-### News App built using API from newsapi.org.
+#### Built using API from newsapi.org.
 
 ### Create a new blog
 ![](/news.png)
